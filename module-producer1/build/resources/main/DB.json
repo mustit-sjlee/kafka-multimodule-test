@@ -1,0 +1,17 @@
+[
+  {
+      "name" : "이수진",
+      "age" : 23,
+      "team" : "dev"
+    },
+  {
+    "name" : "정햔호",
+    "age" : 23,
+    "team" : "security"
+  },
+  {
+    "name" : "sujin",
+    "age" : 23,
+    "team" : "insa"
+  }
+]
