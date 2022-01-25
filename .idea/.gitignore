@@ -1,8 +1,0 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-build/
-*.jar
-*.war
-.idea/
-*/build/

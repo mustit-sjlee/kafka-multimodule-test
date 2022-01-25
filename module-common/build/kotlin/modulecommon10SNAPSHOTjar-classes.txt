@@ -1,1 +1,0 @@
-/Users/sujin/ideaProject/kafka_multimodule_test/module-common/build/classes/kotlin/main/org/example/kafka/model/Data.class
