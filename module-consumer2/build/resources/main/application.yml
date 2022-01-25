@@ -1,0 +1,15 @@
+server:
+  port: 7072
+
+spring:
+  kafka:
+    consumer:
+      group-id: SujinTest_Consumer_Group_id_2
+      enable-auto-commit: true
+      auto-offset-reset: latest
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+      value-default-type: org.example.kafka.model.Data
+    template:
+      default-topic: SujinTest
+    bootstrap-servers: localhost:9092

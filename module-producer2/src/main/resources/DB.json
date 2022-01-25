@@ -1,0 +1,17 @@
+[
+  {
+      "name" : "코난",
+      "age" : 23,
+      "team" : "security"
+    },
+  {
+    "name" : "둘리",
+    "age" : 23,
+    "team" : "ho-i"
+  },
+  {
+    "name" : "태연",
+    "age" : 23,
+    "team" : "sing"
+  }
+]
